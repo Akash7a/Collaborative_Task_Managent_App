@@ -59,10 +59,10 @@ advanced-todo-list/
 ## Screenshots
 
 ### Desktop View
-![Desktop View](./desktop_view.png)
+![Desktop View](./images/desktop_view.png)
 
 ### Mobile View
-![Mobile View](./mobile_view.png)
+![Mobile View](./images/mobile_view.png)
 
 ## Future Improvements
 
