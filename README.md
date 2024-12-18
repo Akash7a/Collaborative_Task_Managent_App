@@ -83,7 +83,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - **[Akash]**  
   GitHub: (https://github.com/Akash7a)
 ```
-
-### Notes:
-- Add screenshots (`screenshot-desktop.png` and `screenshot-mobile.png`) to your repository if you want to include them in the README.
-- Include a `LICENSE` file if you wish to make the project open source.
