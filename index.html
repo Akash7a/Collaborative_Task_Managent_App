@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Advanced Todo List</title>
+    <link rel="stylesheet" href="./style.css">
+</head>
+
+<body>
+
+    <h1>Manage Your Daily Tasks Efficiently.</h1>
+    <form id="taskForm">
+        <h2>Add Your Tasks here.</h2>
+        <div id="taskList">
+            <div class="taskItem">
+                <div class="input_container">
+                    <input type="text" placeholder="Enter the task" class="title" required>
+                </div>
+                <div class="input_container">
+                    <textarea placeholder="Enter the Description" class="description" required></textarea>
+                </div>
+                <div class="input_container">
+                    <input type="date" class="date" required>
+                </div>
+                <div class="input_container">
+                    <input type="text" placeholder="Enter the Category" class="category" required>
+                </div>
+                <div class="input_container">
+                    <select class="taskPriority" required>
+                        <option value="" disabled selected>Set Priority</option>
+                        <option value="High">High</option>
+                        <option value="Medium">Medium</option>
+                        <option value="Low">Low</option>
+                    </select>
+                </div>
+                <div class="input_container">
+                    <select class="taskStatus" required>
+                        <option value="" disabled selected>Status</option>
+                        <option value="Not Started">Not Started</option>
+                        <option value="Completed">Completed</option>
+                    </select>
+                </div>
+            </div>
+        </div>
+        <button type="submit">Add Tasks</button>
+    </form>
+
+    <script src="./script.js"></script>
+</body>
+
+</html>
