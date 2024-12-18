@@ -59,10 +59,10 @@ advanced-todo-list/
 ## Screenshots
 
 ### Desktop View
-![Desktop View](screenshot-desktop.png)
+![Desktop View](./desktop_view.png)
 
 ### Mobile View
-![Mobile View](screenshot-mobile.png)
+![Mobile View](./mobile_view.png)
 
 ## Future Improvements
 
@@ -80,8 +80,8 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Author
 
-- **[Your Name]**  
-  GitHub: [your-username](https://github.com/your-username)
+- **[Akash]**  
+  GitHub: (https://github.com/Akash7a)
 ```
 
 ### Notes:
